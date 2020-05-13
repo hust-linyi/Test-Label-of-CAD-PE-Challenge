@@ -17,9 +17,7 @@ Here's the labels of CAD-PE Challenge test set. In our [paper](https://link.spri
 ### Usage
 
 #### Data
-
-    Please refer to [CAD-PE Challenge](http://www.cad-pe.org/)
+Please refer to [CAD-PE Challenge](http://www.cad-pe.org/).
 #### Labels
-
-    021.nii.gz ~ 040.nii.gz
+021.nii.gz ~ 040.nii.gz
   
